@@ -9,6 +9,7 @@ FERRERO Nathan
 LIRZIN Erwan
 
 
+
 Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre juridique et économique.
 
 Thème 2 : Gérer le référencement et la visibilité de l'organisation sur internet.
