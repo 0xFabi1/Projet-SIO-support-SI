@@ -23,6 +23,7 @@ Thème 2 : Gérer le référencement et la visibilité de l'organisation sur int
 
 Thème 3 : Contribuer à l'amélioration d'un site web qui utilise les données de l'organisation.
 
-            3.1 L'évolution du site web par rapport au besoins
-            3.2 Besoins et utilisation des données de l'organisation
+            3.1 Besoins et utilisation des données de l'organisation
+            3.2 L'évolution du site web par rapport aux besoins
+
 
