@@ -12,7 +12,7 @@ LIRZIN Erwan
 
 Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre juridique et économique.
 
-            1.1 -L’image de l’organisation est conforme aux attentes et est valorisée
+            1.1 L’image de l’organisation est conforme aux attentes et est valorisée
             1.2 Identification des enjeux économique liés à l’image et respect des obligations juridiques
 
 
