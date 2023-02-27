@@ -10,7 +10,7 @@ LIRZIN Erwan
 
 
 
-Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre juridique et économique. -> Erwan / Ryan
+Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre juridique et économique. -> ==Erwan / Ryan==
 
             1.1 La correspondance de l'image de l'organisation aux attentes et sa valorisation
               - L'image de l'organisation
