@@ -8,6 +8,11 @@ HANAI Rayan
 FERRERO Nathan
 LIRZIN Erwan
 
+Deadlines :
+  - Du 27/02 au 01/03 : Faire chaque partie écrite par groupe
+  - Du 01/03 au 03/03 : Faire chaque partie du powerpoint par groupe
+  - Le 04/03 au matin à la médiathèque, regroupement de toutes les parties et finalisation du dossier et du powerpoint
+  - Le 05/03 envoi du dossier et du powerpoint
 
 #### Présentation du script de veille utilisé pour la recherche d'informations
 
