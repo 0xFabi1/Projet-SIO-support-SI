@@ -25,6 +25,7 @@ Thème 2 : Gérer le référencement et la visibilité de l'organisation sur int
             
             2.1 Accessibilité et conformité à la législation et aux mentions légales
               - Mentions légales et conditions générales d'utilisation d'un site web
+              - Droit d'utilisation des contenus externes
             2.2 La satisfaction de la visibilité des services en ligne
               - Convention d'écriture électronique
 
