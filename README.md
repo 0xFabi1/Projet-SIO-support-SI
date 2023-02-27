@@ -18,6 +18,7 @@ Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre 
             1.2 Les enjeux économiques liés à l’image et le respect des obligations juridiques
               - L'image et ses enjeux économiques
               - Le respect des obligations juridique
+                  - Règlementation en matière de collecte, de traitement et de conservation des données à caractère personnelles
 
 
 Thème 2 : Gérer le référencement et la visibilité de l'organisation sur internet. -> **Hugo / Nathan**
