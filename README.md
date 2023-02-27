@@ -9,9 +9,9 @@ FERRERO Nathan
 LIRZIN Erwan
 
 
-### Présentation du script de veille utilisé pour la recherche d'informations
+#### Présentation du script de veille utilisé pour la recherche d'informations
 
-### Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre juridique et économique. -> **Erwan / Ryan**
+#### Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre juridique et économique. -> **Erwan / Ryan**
 
             1.1 La correspondance de l'image de l'organisation aux attentes et sa valorisation
               - L'image de l'organisation
@@ -24,7 +24,7 @@ LIRZIN Erwan
                   - (Règlementation en matière de collecte, de traitement et de conservation des données à caractère personnelles)
 
 
-### Thème 2 : Gérer le référencement et la visibilité de l'organisation sur internet. -> **Hugo / Nathan**
+#### Thème 2 : Gérer le référencement et la visibilité de l'organisation sur internet. -> **Hugo / Nathan**
             
             2.1 Accessibilité et conformité à la législation et aux mentions légales
                   - (Droit d'utilisation des contenus externes)
@@ -33,7 +33,7 @@ LIRZIN Erwan
             2.2 La satisfaction de la visibilité des services en ligne
                   - (Convention d'écriture électronique)
 
-### Thème 3 : Contribuer à l'amélioration d'un site web qui utilise les données de l'organisation. -> **Lucas / Fabien**
+#### Thème 3 : Contribuer à l'amélioration d'un site web qui utilise les données de l'organisation. -> **Lucas / Fabien**
 
             3.1 Besoins et utilisation des données de l'organisation
               - Comment gérer l'utilisation des données de l'organisation en fonction des besoins ?
