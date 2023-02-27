@@ -26,7 +26,7 @@ Thème 1 : La valorisation de l'image de l'organisation sur internet, son cadre 
 Thème 2 : Gérer le référencement et la visibilité de l'organisation sur internet. -> **Hugo / Nathan**
             
             2.1 Accessibilité et conformité à la législation et aux mentions légales
-              - Droit d'utilisation des contenus externes
+                  - (Droit d'utilisation des contenus externes)
                   - (Mentions légales et conditions générales d'utilisation d'un site web)
                   - (Responsabilite de l'éditeur et de l'hébergeuur du site web)
             2.2 La satisfaction de la visibilité des services en ligne
